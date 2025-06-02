@@ -1,2 +1,2 @@
 # curso_test
-Prueba con github
+Repositorio para practicar el uso de github
